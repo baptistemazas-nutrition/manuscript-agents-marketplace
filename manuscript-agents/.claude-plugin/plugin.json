@@ -1,0 +1,6 @@
+{
+  "name": "manuscript-agents",
+  "version": "2.5.0",
+  "description": "End-to-end scientific-manuscript suite (8 skills): autonomous statistical analysis of study data (CSV/Excel), deep research and literature review, paper writing, multi-perspective peer review, full pipeline orchestration, EQUATOR reporting-guideline compliance, citation-coherence checks, and journal selection / submission / response-to-reviewers / publishing. Covers the whole researcher workflow from question to published paper.",
+  "author": { "name": "Academic Research Skills - manuscript-agents fork" }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "manuscript-agents",
+  "owner": {
+    "name": "Baptiste Mazas",
+    "email": "baptiste.mazas@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "manuscript-agents",
+      "displayName": "Manuscript Agents",
+      "source": "./manuscript-agents",
+      "description": "End-to-end scientific-manuscript suite (8 skills): autonomous statistical analysis of study data (CSV/Excel), deep research, paper writing, multi-perspective peer review, full pipeline orchestration, EQUATOR reporting-guideline compliance, citation-coherence checks, and journal selection / submission / response-to-reviewers / publishing.",
+      "category": "research"
+    }
+  ]
+}
