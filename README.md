@@ -43,4 +43,6 @@ Each person can tweak their own installed copy, **and** share improvements back 
 
 ## Provenance & license
 
-Derived from **Academic Research Skills (ARS)**, licensed **CC BY-NC 4.0** — non-commercial use, with attribution. The `journal-submission` skill and the 360° references are additions in this fork.
+Derived from **Academic Research Skills (ARS)**, licensed **CC BY-NC 4.0** — non-commercial use, with attribution. The `journal-submission` skill and the 360° references are additions in this fork, © 2026 Baptiste Mazas, released under the same CC BY-NC 4.0 license. See [LICENSE](LICENSE).
+
+Commercial use is not permitted. To build on Manuscript Agents together, contact Baptiste Mazas on [LinkedIn](https://www.linkedin.com/in/baptiste-mazas-577219182/).
